@@ -6,9 +6,11 @@
 ## 🛠 Skills
 - C#
 - ASP.NET MVC
+- ASP.NET CORE
 - SQL Server
 - HTML, CSS (Basic)
 - Git & GitHub
+  
 
 ## 📌 Projects
 ### 🧺 Laundry Management Web Application
